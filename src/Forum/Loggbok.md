@@ -10,4 +10,9 @@
     java.awt.IllegalComponentStateException: contentPane cannot be set to null."
 
     Hoppas det går att fixa utan allt för stora bekymmer nästa gång
-    
+
+### Torsdag: 04-06
+    Idag har jag lyckats koppla både View-en och Modeln till Controllern och har utöver det
+    även lyckas koppla upp till min databas med modeln. 
+
+    Jag har däremot inte lyckats hämta ut saker ur den på rätt sätt.

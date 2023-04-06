@@ -16,7 +16,7 @@ public class ForumControler {
     }
 
     public static void main(String[] args) {
-        String name = JOptionPane.showInputDialog(null,"Enter name here");
+       // String name = JOptionPane.showInputDialog(null,"Enter name here");
         ForumControler c = new ForumControler(new ForumModel(), new ForumView());
     }
 }
